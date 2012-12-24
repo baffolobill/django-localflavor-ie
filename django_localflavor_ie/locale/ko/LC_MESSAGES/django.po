@@ -1,0 +1,122 @@
+# This file is distributed under the same license as the Django package.
+# 
+# Translators:
+# Jaehong Kim <mixe@korea.com>, 2011.
+# Jannis Leidel <jannis@leidel.info>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: django-localflavor-ie\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-12-20 16:38-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Jaehong Kim <mixe@korea.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: ie_counties.py:8
+msgid "Carlow"
+msgstr ""
+
+#: ie_counties.py:9
+msgid "Cavan"
+msgstr "캐번"
+
+#: ie_counties.py:10
+msgid "Clare"
+msgstr "클레어"
+
+#: ie_counties.py:11
+msgid "Cork"
+msgstr "코르크"
+
+#: ie_counties.py:12
+msgid "Donegal"
+msgstr "도네갈"
+
+#: ie_counties.py:13
+msgid "Dublin"
+msgstr "더블린"
+
+#: ie_counties.py:14
+msgid "Galway"
+msgstr "골웨이"
+
+#: ie_counties.py:15
+msgid "Kerry"
+msgstr "케리"
+
+#: ie_counties.py:16
+msgid "Kildare"
+msgstr "킬데어"
+
+#: ie_counties.py:17
+msgid "Kilkenny"
+msgstr "킬케니"
+
+#: ie_counties.py:18
+msgid "Laois"
+msgstr "라오 이스"
+
+#: ie_counties.py:19
+msgid "Leitrim"
+msgstr "리트림"
+
+#: ie_counties.py:20
+msgid "Limerick"
+msgstr ""
+
+#: ie_counties.py:21
+msgid "Longford"
+msgstr "롱퍼드"
+
+#: ie_counties.py:22
+msgid "Louth"
+msgstr "로우쓰"
+
+#: ie_counties.py:23
+msgid "Mayo"
+msgstr "메이요"
+
+#: ie_counties.py:24
+msgid "Meath"
+msgstr "미스"
+
+#: ie_counties.py:25
+msgid "Monaghan"
+msgstr "모나핸"
+
+#: ie_counties.py:26
+msgid "Offaly"
+msgstr "오팔리"
+
+#: ie_counties.py:27
+msgid "Roscommon"
+msgstr "로스 커먼"
+
+#: ie_counties.py:28
+msgid "Sligo"
+msgstr "슬라이고"
+
+#: ie_counties.py:29
+msgid "Tipperary"
+msgstr ""
+
+#: ie_counties.py:30
+msgid "Waterford"
+msgstr "워터 포드"
+
+#: ie_counties.py:31
+msgid "Westmeath"
+msgstr ""
+
+#: ie_counties.py:32
+msgid "Wexford"
+msgstr "웩스포드"
+
+#: ie_counties.py:33
+msgid "Wicklow"
+msgstr "위클로"

@@ -1,0 +1,126 @@
+# This file is distributed under the same license as the Django package.
+# 
+# Translators:
+# Jannis Leidel <jannis@leidel.info>, 2011.
+# Kostas  <tamosiunas@gmail.com>, 2011.
+# lauris <lauris@runbox.com>, 2011.
+# Nikolajus Krauklis <nikolajus@gmail.com>, 2011.
+# Simonas Simas <simonas@kazlauskas.me>, 2012.
+# Vytautas Astrauskas <vastrauskas@gmail.com>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: django-localflavor-ie\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-12-20 16:38-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Simonas Simas <simonas@kazlauskas.me>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
+
+#: ie_counties.py:8
+msgid "Carlow"
+msgstr ""
+
+#: ie_counties.py:9
+msgid "Cavan"
+msgstr ""
+
+#: ie_counties.py:10
+msgid "Clare"
+msgstr ""
+
+#: ie_counties.py:11
+msgid "Cork"
+msgstr ""
+
+#: ie_counties.py:12
+msgid "Donegal"
+msgstr ""
+
+#: ie_counties.py:13
+msgid "Dublin"
+msgstr "Dublinas"
+
+#: ie_counties.py:14
+msgid "Galway"
+msgstr ""
+
+#: ie_counties.py:15
+msgid "Kerry"
+msgstr ""
+
+#: ie_counties.py:16
+msgid "Kildare"
+msgstr ""
+
+#: ie_counties.py:17
+msgid "Kilkenny"
+msgstr ""
+
+#: ie_counties.py:18
+msgid "Laois"
+msgstr ""
+
+#: ie_counties.py:19
+msgid "Leitrim"
+msgstr ""
+
+#: ie_counties.py:20
+msgid "Limerick"
+msgstr ""
+
+#: ie_counties.py:21
+msgid "Longford"
+msgstr ""
+
+#: ie_counties.py:22
+msgid "Louth"
+msgstr ""
+
+#: ie_counties.py:23
+msgid "Mayo"
+msgstr ""
+
+#: ie_counties.py:24
+msgid "Meath"
+msgstr ""
+
+#: ie_counties.py:25
+msgid "Monaghan"
+msgstr ""
+
+#: ie_counties.py:26
+msgid "Offaly"
+msgstr ""
+
+#: ie_counties.py:27
+msgid "Roscommon"
+msgstr ""
+
+#: ie_counties.py:28
+msgid "Sligo"
+msgstr ""
+
+#: ie_counties.py:29
+msgid "Tipperary"
+msgstr ""
+
+#: ie_counties.py:30
+msgid "Waterford"
+msgstr ""
+
+#: ie_counties.py:31
+msgid "Westmeath"
+msgstr ""
+
+#: ie_counties.py:32
+msgid "Wexford"
+msgstr ""
+
+#: ie_counties.py:33
+msgid "Wicklow"
+msgstr ""
