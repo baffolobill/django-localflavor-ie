@@ -4,7 +4,7 @@ UK-specific Form helpers
 
 from __future__ import absolute_import
 
-from django.contrib.localflavor.ie.ie_counties import IE_COUNTY_CHOICES
+from django_localflavor_ie.ie_counties import IE_COUNTY_CHOICES
 from django.forms.fields import Select
 
 
